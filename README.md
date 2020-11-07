@@ -24,20 +24,16 @@ worldwide. Reports pour daily into healthcare communities. We added some samples
    </th>
    
    <tr> 
-     <td> Dataset1 </td>
-     <td> </td>
-     <td> </td>
-   </tr>
-  
-  <tr> 
-     <td> Dataset2</td>
-     <td> </td>
-     <td> </td>
-   </tr>
-   
-   <tr> 
-     <td> Dataset2</td>
-     <td> </td>
+  <td> Dataset1</td>
+     <td> Parkinson_data.csv </td>
+     <td>  This dataset has four attributes : topics,links,voices,replies,comments
+  <ul>
+  <li>topics</li>
+  <li>links</li>
+  <li>voices</li>
+    <li> comments</li>
+</ul>
+  </td>
      <td> </td>
    </tr>
    </table>
