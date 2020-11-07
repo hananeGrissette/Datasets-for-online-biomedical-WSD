@@ -3,7 +3,7 @@
 
 <h2> The aim of this study </h2>
 <p> Sentiment analysis models are mostly used to evaluate the convoyed sentiments by patients’ narratives gathered from multiple information sources, assess positive or negative clinical outcomes or judge the impact of a drug and a medical condition.<br/> 
-  Their effectiveness depends mainly on the Word Sense Disambiguation (WSD) method applied to the medical domain. Indeed, connotative meaning and sentiment associated with natural language concepts exhibit additional structural ambiguities including lack of multi-word concepts senses, multiple sense modalities of an individual concept, biomedical concepts abbreviations, pragmatic, and descriptive or nontechnical medical terms and multi-source health and medical data fusion issues. Biomedical meaning is only meaningful in reference to, and in distinction from, other meanings that need to be justified according to the context in which the concepts occur. <br/>
+ Their effectiveness depends mainly on the Word Sense Disambiguation (WSD) method applied to the medical domain. Indeed, connotative meaning and sentiment associated with natural language concepts exhibit additional structural ambiguities including lack of multi-word concepts senses, multiple sense modalities of an individual concept, biomedical concepts abbreviations, pragmatic, and descriptive or nontechnical medical terms and multi-source health and medical data fusion issues. Biomedical meaning is only meaningful in reference to, and in distinction from, other meanings that need to be justified according to the context in which the concepts occur. <br/>
 In this study, we develop a semisupervised features-fusion based approach for medical sense disambiguation, offering a significant rate of biomedical concept senses discrimination and seeking constraints from conjunctions of the positive or negative semantics of aspects-based sentiment information.
 
 </p>
@@ -28,13 +28,27 @@ worldwide. Reports pour daily into healthcare communities. We added some samples
      <td> Parkinson_data.csv </td>
      <td>  This dataset has four attributes : topics,links,voices,replies, and comments.
   <ul>
-  <li>topics</li>
-  <li>links</li>
-  <li>voices</li>
-    <li> comments</li>
+  <li>topics : A matter dealt within a forum, discourse, or conversation towards a PD-related subject.</li>
+  <li>links: Links of the topic-related discussions page. </li>
+  <li>voices : A voice messages</li>
+   <li> comments: Posts and replies</li>
 </ul>
   </td>
-     <td> </td>
+     <td> 1396 Topics with all related posts and replies in the period between 20 June,2020 and 20 August,2020.</td>
+   </tr>
+   
+      <tr> 
+  <td> Dataset2</td>
+     <td> Parkinson_data_2.csv </td>
+     <td>  This dataset has four attributes : topics,links,voices,replies, and comments.
+  <ul>
+  <li>topics : A matter dealt within a forum, discourse, or conversation towards a PD-related subject.</li>
+  <li>links: Links of the topic-related discussions page. </li>
+  <li>voices : A voice messages</li>
+   <li> comments: Posts and replies</li>
+</ul>
+  </td>
+     <td> 1501 Topics with all related posts and replies in the period between first October,2020 and 5 November,2020.</td>
    </tr>
    </table>
    </p>
