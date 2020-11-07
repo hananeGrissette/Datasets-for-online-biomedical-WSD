@@ -52,7 +52,13 @@ worldwide. Reports pour daily into healthcare communities. We added some samples
    </tr>
    </table>
    </p>
-<h4> Python Code for gathering this data and Jupyter Notebook example</h4> Here we provide the code to collect and ....
+<h4> Python Code for gathering this data and Jupyter Notebook example</h4> Here we provide the code to collect and Preprocessing steps:
+<ul>
+ <li> <strong>Crawler code </strong> for collecting tweetscan be found in file : <b> Step1_Data_forum_crawler.py </b> and notebook examples <b>Step1_Data_forum_crawler.ipynb</b> </li>
+ <li><strong> Preprocessing code </strong> code can be found in file <b>Step2_data_forum.ipynb</b></li>
+</ul>
+
+
 <h3> 2-Twitter data </h3>
 <h4> Dataset Samples Overview</h4>
 Twitter is considered the preferable avenue of huge “superspreaders” of healthcare topics with 330 million monthly active.</br>
