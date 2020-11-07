@@ -100,7 +100,7 @@ Keywords and dates are mentioned in Python code and csv files respectively.
       <tr> 
      <td> Dataset_5</td>
      <td> tweets_on_17_10_2019.txt tweets</td>
- <td> A second Format, tweets collected in json files ans save the original format of Twitter.</td>
+ <td> A second Format, tweets collected in json files to save the original format of Twitter.</td>
      <td> 596 tweets </td>
    </tr>
    </table>
