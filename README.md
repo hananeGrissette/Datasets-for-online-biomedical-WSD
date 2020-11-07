@@ -14,18 +14,61 @@ we collected varied patients generated narratives datasets from popular platform
 <a href ='https://parkinsonsnewstoday.com/forums/forums/topic/the-long-awaited-mannitol-interview/' target="_blank"> Parkinson disease forum </a> 
 is a forum for long-term degenerative disorder-related discussions. We chose this forum because of the controversy of Parkinson’s disease related-experiences and the difficulties to distill insights from these shared narratives. Indeed, PD affects an estimated seven to 10 million people and families 
 worldwide. Reports pour daily into healthcare communities. We added some samples of data we collected.  </br>
-| Datasets  | Description |  Statistics |   
-|---|---|---|
-|  Dataset1 |   |   |  
-|   Dataset2|   |   |  
-| Dataset3 |   |   |  
-</p>
+<table border = "1">
+  
+   <th> 
+     <td> Dataset's Name</td>
+     <td> Discription</td>
+     <td> Statistics </td>
+   </th>
+   
+   <tr> 
+     <td> Dataset1 </td>
+     <td> </td>
+     <td> </td>
+   </tr>
+  
+  <tr> 
+     <td> Dataset2</td>
+     <td> </td>
+     <td> </td>
+   </tr>
+   
+   <tr> 
+     <td> Dataset2</td>
+     <td> </td>
+     <td> </td>
+   </tr>
+   </table>
+   </p>
 
 <h3> Twitter data </h3>
 Twitter is considered the preferable avenue of huge “superspreaders” of healthcare topics with 330 million monthly active.</br>
-| Datasets  | Description |  Statistics |   
-|---|---|---|
-|  Dataset1 |   |   |  
-|   Dataset2|   |   |  
-| Dataset3 |   |   |  
+ </br>
+<table border = "1">
+  
+   <th> 
+     <td> Dataset's Name</td>
+     <td> Discription</td>
+     <td> Statistics </td>
+   </th>
+   
+   <tr> 
+     <td> Dataset1 </td>
+     <td> </td>
+     <td> </td>
+   </tr>
+  
+  <tr> 
+     <td> Dataset2</td>
+     <td> </td>
+     <td> </td>
+   </tr>
+   
+   <tr> 
+     <td> Dataset2</td>
+     <td> </td>
+     <td> </td>
+   </tr>
+   </table>
 
