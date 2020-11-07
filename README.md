@@ -12,7 +12,7 @@ We collected varied patients generated narratives datasets from multi-source dat
 <h3> 1- Parkinson's disease forum data </h3>
 <h4> Dataset Samples Overview</h4>
 <p> 
-<a href ='https://parkinsonsnewstoday.com/forums/forums/topic/the-long-awaited-mannitol-interview/' target="_blank"> Parkinson disease forum </a> 
+<a href ='https://parkinsonsnewstoday.com/forums/' target="_blank"> Parkinson disease forum </a> 
 is a forum for long-term degenerative disorder-related discussions. We chose this forum because of the controversy of Parkinson’s disease related-experiences and the difficulties to distill insights from these shared narratives. Indeed, PD affects an estimated seven to 10 million people and families 
 worldwide. Reports pour daily into healthcare communities. We added some samples of data we collected.  </br>
 <table border = "1">
@@ -26,7 +26,7 @@ worldwide. Reports pour daily into healthcare communities. We added some samples
    <tr> 
   <td> Dataset1</td>
      <td> Parkinson_data.csv </td>
-     <td>  This dataset has four attributes : topics,links,voices,replies,comments
+     <td>  This dataset has four attributes : topics,links,voices,replies, and comments.
   <ul>
   <li>topics</li>
   <li>links</li>
