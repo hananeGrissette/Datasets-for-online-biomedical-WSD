@@ -54,7 +54,6 @@ Twitter is considered the preferable avenue of huge “superspreaders” of heal
      <td> Discription</td>
      <td> Statistics </td>
    </th>
-<h4> Code Python for gathering this data and Jupyter Notebook example</h4>
    
    <tr> 
      <td> Dataset1 </td>
@@ -75,3 +74,4 @@ Twitter is considered the preferable avenue of huge “superspreaders” of heal
    </tr>
    </table>
 
+<h4> Code Python for gathering this data and Jupyter Notebook example</h4>
