@@ -61,6 +61,7 @@ worldwide. Reports pour daily into healthcare communities. We added some samples
 <h3> 2-Twitter data </h3>
 <h4> Dataset Samples Overview</h4>
 Twitter is considered the preferable avenue of huge “superspreaders” of healthcare topics with 330 million monthly active. Each dataset has the following attributes: id, created_at, source,original_text, clean_text, sentiment,polarity, subjectivity, lang, favorite_count, retweet_count, original_author, possibly_sensitive, hashtags, user_mentions, place,place_coord_boundaries. </br>
+Keywords and dates are mentioned in Python code and csv files respectively.
  </br>
 <table border = "1">
   
@@ -73,14 +74,14 @@ Twitter is considered the preferable avenue of huge “superspreaders” of heal
    <tr> 
      <td> Dataset_1 </td>
      <td>  tweets_epilepsy.csv</td>
- <td> Epilepsy related discussions </td>
+ <td> Epilepsy related discussions and posts.</td>
      <td> 7074 tweets </td>
    </tr>
   
   <tr> 
      <td> Dataset_2</td>
      <td> tweets_HeartDisease.csv </td>
- <td> Heart disease related discussions.</td>
+ <td> Heart disease related discussions and posts.</td>
      <td> 12345 tweets </td>
    </tr>
    
@@ -93,7 +94,7 @@ Twitter is considered the preferable avenue of huge “superspreaders” of heal
       <tr> 
      <td> Dataset_4</td>
      <td>Tweets_epilepsy_texts.csv</td>
- <td> A cleaned Texts with regard to some epilepsy symptoms.</td>
+ <td> A cleaned epilepsy texts of tweets with regard to some epilepsy symptoms.</td>
      <td> 8622 tweets</td>
    </tr>
       <tr> 
