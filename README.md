@@ -9,7 +9,7 @@ In this study, we develop a semisupervised features-fusion based approach for me
 </p>
 <h2> Datasets Samples </h2>
 We collected varied patients generated narratives datasets from multi-source data plateforms : Microblogs such as Twitter and health-related forums such as Parkinson's Disease (PD). 
-<h3> Parkinson's disease forum data </h3>
+<h3> 1- Parkinson's disease forum data </h3>
 <h4> Dataset Samples Overview</h4>
 <p> 
 <a href ='https://parkinsonsnewstoday.com/forums/forums/topic/the-long-awaited-mannitol-interview/' target="_blank"> Parkinson disease forum </a> 
@@ -43,7 +43,7 @@ worldwide. Reports pour daily into healthcare communities. We added some samples
    </table>
    </p>
 <h4> Python Code for gathering this data and Jupyter Notebook example</h4> Here we provide the code to collect and ....
-<h3> Twitter data </h3>
+<h3> 2-Twitter data </h3>
 <h4> Dataset Samples Overview</h4>
 Twitter is considered the preferable avenue of huge “superspreaders” of healthcare topics with 330 million monthly active.</br>
  </br>
