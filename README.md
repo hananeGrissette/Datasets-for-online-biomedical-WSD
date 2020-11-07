@@ -47,7 +47,7 @@ worldwide. Reports pour daily into healthcare communities. Here, we added some s
    <li> comments: Posts and replies</li>
 </ul>
   </td>
-     <td> 1501 Topics with all related posts and replies in the period between first October,2020 and 5 November,2020.</td>
+     <td> 1501 Topics with all related posts and replies in the period between 1st October,2020 and 5 November,2020.</td>
    </tr>
    </table>
    </p>
