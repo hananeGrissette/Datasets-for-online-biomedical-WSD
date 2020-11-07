@@ -60,7 +60,7 @@ worldwide. Reports pour daily into healthcare communities. We added some samples
 
 <h3> 2-Twitter data </h3>
 <h4> Dataset Samples Overview</h4>
-Twitter is considered the preferable avenue of huge “superspreaders” of healthcare topics with 330 million monthly active.</br>
+Twitter is considered the preferable avenue of huge “superspreaders” of healthcare topics with 330 million monthly active. Each dataset has the following attributes: id, created_at, source,original_text, clean_text, sentiment,polarity, subjectivity, lang, favorite_count, retweet_count, original_author, possibly_sensitive, hashtags, user_mentions, place,place_coord_boundaries. </br>
  </br>
 <table border = "1">
   
@@ -73,26 +73,27 @@ Twitter is considered the preferable avenue of huge “superspreaders” of heal
    <tr> 
      <td> Dataset_1 </td>
      <td>  tweets_epilepsy.csv</td>
- <td> This data file has the following attributes: id,created_at,source,original_text,clean_text,sentiment,polarity,subjectivity, lang,favorite_count,retweet_count,original_author,possibly_sensitive,hashtags,user_mentions,place,place_coord_boundaries. </td>
+ <td> Epilepsy related discussions </td>
      <td> 7074 tweets </td>
    </tr>
   
   <tr> 
      <td> Dataset_2</td>
      <td> tweets_HeartDisease.csv </td>
+ <td> Heart disease related discussions.</td>
      <td> 12345 tweets </td>
    </tr>
    
    <tr> 
      <td> Dataset_3</td>
      <td> tweets_diseases.csv </td>
-     <td>This data file has the following attributes: id,created_at,source,original_text,clean_text,sentiment,polarity,subjectivity, lang,favorite_count,retweet_count,original_author,possibly_sensitive,hashtags,user_mentions,place,place_coord_boundaries. </td>
+     <td> Diseases related discussions e.g, dystonia disease and syndromes.</td>
  <td> 3995 tweets</td>
    </tr>
       <tr> 
      <td> Dataset_4</td>
      <td>Tweets_epilepsy_texts.csv</td>
- <td> A cleaned Texts</td>
+ <td> A cleaned Texts with regard to some epilepsy symptoms.</td>
      <td> 8622 tweets</td>
    </tr>
       <tr> 
