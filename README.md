@@ -24,7 +24,7 @@ worldwide. Reports pour daily into healthcare communities. We added some samples
    </th>
    
    <tr> 
-  <td> Dataset1</td>
+  <td> Dataset_1</td>
      <td> Parkinson_data.csv </td>
      <td>  This dataset has four attributes : topics,links,voices,replies, and comments.
   <ul>
@@ -36,9 +36,8 @@ worldwide. Reports pour daily into healthcare communities. We added some samples
   </td>
      <td> 1396 Topics with all related posts and replies in the period between 20 June,2020 and 20 August,2020.</td>
    </tr>
-   
-      <tr> 
-  <td> Dataset2</td>
+<tr>
+  <td> Dataset_2</td>
      <td> Parkinson_data_2.csv </td>
      <td>  This dataset has four attributes : topics,links,voices,replies, and comments.
   <ul>
@@ -54,8 +53,8 @@ worldwide. Reports pour daily into healthcare communities. We added some samples
    </p>
 <h4> Python Code for gathering this data and Jupyter Notebook example</h4> Here we provide the code to collect and Preprocessing steps:
 <ul>
- <li> <strong>Crawler code </strong> for collecting tweetscan be found in file : <b> Step1_Data_forum_crawler.py </b> and notebook examples <b>Step1_Data_forum_crawler.ipynb</b> </li>
- <li><strong> Preprocessing code </strong> code can be found in file <b>Step2_data_forum.ipynb</b></li>
+ <li> <strong>Crawler Code :  </strong> Cor collecting tweetscan be found in file : <b> Step1_Data_forum_crawler.py </b> and notebook examples <b>Step1_Data_forum_crawler.ipynb</b> </li>
+ <li><strong> Preprocessing Code :  </strong> Code can be found in file <b>Step2_data_forum.ipynb</b></li>
 </ul>
 
 
