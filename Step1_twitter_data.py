@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[20]:
-
 
 import numpy as np
 import pandas as pd
@@ -19,14 +17,13 @@ import tweepy
 import preprocessor as p
 
 
-# In[21]:
 
 
 #This is a basic listener that just prints received tweets to stdout.
-ckey = 'wZxZWtweS5kldbfiTagJ2PunZ'
-consumer_secret = 'Nh4NZaxNO6QdEjpda06UL3Bkqz5m6BPktEMVSskyNOiTVs6mYL'
-access_token_key = '713538486666657793-j9jpKcZ2ao9QXqR4qcKrv360PnXKdn1'
-access_token_secret = 'HVithvs7VnvORcy8YAYiypB7JOorOjvXmcKjCWtDa2K3e'
+ckey = ''
+consumer_secret = ''
+access_token_key = ''
+access_token_secret = ''
 
 
 from tweepy.streaming import StreamListener
@@ -40,17 +37,11 @@ auth = tweepy.OAuthHandler(ckey, consumer_secret)
 auth.set_access_token(access_token_key, access_token_secret)
 api = tweepy.API(auth)
 
-
-# In[22]:
-
-
 # tweets_Parkinsons="tweets_Parkinsons_1MARS.csv"
 # tweets_Epilepsy="tweets_Epilepsy_1MARS.csv"
 # tweets_HeartDisease="tweets_HeartDisease_1MARS.csv"
 tweets_covid19 = "tweets_covid19_AFTER_6_novomber.csv"
 
-
-# In[23]:
 
 
 COLS = {'id':{} ,'created_at':{} , 'source' :{}, 
@@ -59,9 +50,6 @@ COLS = {'id':{} ,'created_at':{} , 'source' :{},
         'favorite_count':{}, 'retweet_count':{}, 'original_author':{},  
         'possibly_sensitive':{}, 'hashtags':{},'user_mentions':{},
         'place':{}, 'place_coord_boundaries':{}}
-
-
-# In[24]:
 
 
 #HappyEmoticons
@@ -87,9 +75,6 @@ emoji_pattern = re.compile("["
          u"\U00002702-\U000027B0"
          u"\U000024C2-\U0001F251"
          "]+", flags=re.UNICODE)
-
-
-# In[25]:
 
 
 #set two date variables for date range
