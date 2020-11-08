@@ -53,7 +53,7 @@ worldwide. Reports pour daily into healthcare communities. Here, we added some s
    </p>
 <h4> Python Code for gathering this data and Jupyter Notebook example</h4> Here we provide the code to collect and Preprocessing steps:
 <ul>
- <li> <strong>Crawler Code :  </strong> It has been created for collecting posts from each forum and code can be found in file : <b> Step1_Data_forum_crawler.py </b> and notebook examples <b>Step1_Data_forum_crawler.ipynb</b>. </li>
+ <li> <strong>Crawler Code :  </strong> It has been created for collecting posts from each forum and code can be found in file <b> Step1_Data_forum_crawler.py </b> and notebook examples <b>Step1_Data_forum_crawler.ipynb</b>. </li>
  <li><strong> Preprocessing Code :  </strong> Code can be found in file <b>Step2_data_forum.ipynb</b>.</li>
 </ul>
 
@@ -107,6 +107,6 @@ Keywords and dates are mentioned in Python code and csv files respectively.
 
 <h4>Python Code for gathering this data and Jupyter Notebook example</h4>
 <ul>
- <li> <strong>Crawler Code :  </strong> code and dependencies for collecting tweets can be found in file : <b> Step1_twitter_data.py </b>. </li>
+ <li> <strong>Crawler Code :  </strong> code and dependencies for collecting tweets can be found in file <b> Step1_twitter_data.py </b>. </li>
  <li><strong> Preprocessing Code :  </strong> Code can be found in file <b>step2_Data_Twitter.ipynb</b>.</li>
 </ul> 
